@@ -1,0 +1,1323 @@
+152901 74451.8 37247.2 1697.08 2 38942.7 63266.8
+Limit: 10
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 1 2.56788e-05 1.58061e-05 
+1 1 1 1 1 1 1
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 1 0.000026 0.000016 
+67.846 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 1 0.000026 0.000016 
+64.1611 
+
+2
+66.0035
+Maximum:66.0035 1 1 1 1 1 1 1
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 1 2.56788e-05 4.74182e-05 
+1 1 1 1 1 1 3
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 1 0.000026 0.000047 
+79.4713 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 1 0.000026 0.000047 
+65.0987 
+
+2
+72.285
+Maximum:72.285 1 1 1 1 1 1 3
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 1 2.56788e-05 7.90304e-05 
+1 1 1 1 1 1 5
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 1 0.000026 0.000079 
+72.8405 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 1 0.000026 0.000079 
+77.9912 
+
+2
+75.4158
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 1 2.56788e-05 0.000110643 
+1 1 1 1 1 1 7
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 1 0.000026 0.000111 
+75.5358 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 1 0.000026 0.000111 
+73.4832 
+
+2
+74.5095
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 1 2.56788e-05 0.000142255 
+1 1 1 1 1 1 9
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 1 0.000026 0.000142 
+68.3643 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 1 0.000026 0.000142 
+70.9605 
+
+2
+69.6624
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 1 2.56788e-05 0.000173867 
+1 1 1 1 1 1 11
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 1 0.000026 0.000174 
+60.8177 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 1 0.000026 0.000174 
+58.456 
+
+2
+59.6368
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 1 7.70363e-05 1.58061e-05 
+1 1 1 1 1 3 1
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 1 0.000077 0.000016 
+68.6466 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 1 0.000077 0.000016 
+70.3742 
+
+2
+69.5104
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 1 7.70363e-05 4.74182e-05 
+1 1 1 1 1 3 3
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 1 0.000077 0.000047 
+78.4545 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 1 0.000077 0.000047 
+70.1649 
+
+2
+74.3097
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 1 7.70363e-05 7.90304e-05 
+1 1 1 1 1 3 5
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 1 0.000077 0.000079 
+69.7337 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 1 0.000077 0.000079 
+76.3388 
+
+2
+73.0363
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 1 7.70363e-05 0.000110643 
+1 1 1 1 1 3 7
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 1 0.000077 0.000111 
+68.1101 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 1 0.000077 0.000111 
+75.2849 
+
+2
+71.6975
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 1 7.70363e-05 0.000142255 
+1 1 1 1 1 3 9
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 1 0.000077 0.000142 
+65.6311 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 1 0.000077 0.000142 
+73.0572 
+
+2
+69.3442
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 1 7.70363e-05 0.000173867 
+1 1 1 1 1 3 11
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 1 0.000077 0.000174 
+66.5061 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 1 0.000077 0.000174 
+60.0668 
+
+2
+63.2865
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 1 0.000128394 1.58061e-05 
+1 1 1 1 1 5 1
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 1 0.000128 0.000016 
+66.3965 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 1 0.000128 0.000016 
+71.4941 
+
+2
+68.9453
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 1 0.000128394 4.74182e-05 
+1 1 1 1 1 5 3
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 1 0.000128 0.000047 
+75.2535 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 1 0.000128 0.000047 
+70.2444 
+
+2
+72.7489
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 1 0.000128394 7.90304e-05 
+1 1 1 1 1 5 5
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 1 0.000128 0.000079 
+74.0344 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 1 0.000128 0.000079 
+64.1391 
+
+2
+69.0868
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 1 0.000128394 0.000110643 
+1 1 1 1 1 5 7
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 1 0.000128 0.000111 
+67.6353 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 1 0.000128 0.000111 
+65.2015 
+
+2
+66.4184
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 1 0.000128394 0.000142255 
+1 1 1 1 1 5 9
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 1 0.000128 0.000142 
+62.1534 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 1 0.000128 0.000142 
+53.7069 
+
+2
+57.9301
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 1 0.000128394 0.000173867 
+1 1 1 1 1 5 11
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 1 0.000128 0.000174 
+63.3726 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 1 0.000128 0.000174 
+65.2774 
+
+2
+64.325
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 1 0.000179751 1.58061e-05 
+1 1 1 1 1 7 1
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 1 0.000180 0.000016 
+46.9479 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 1 0.000180 0.000016 
+61.1917 
+
+2
+54.0698
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 1 0.000179751 4.74182e-05 
+1 1 1 1 1 7 3
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 1 0.000180 0.000047 
+46.8258 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 1 0.000180 0.000047 
+63.0779 
+
+2
+54.9519
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 1 0.000179751 7.90304e-05 
+1 1 1 1 1 7 5
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 1 0.000180 0.000079 
+40.9394 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 1 0.000180 0.000079 
+64.778 
+
+2
+52.8587
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 1 0.000179751 0.000110643 
+1 1 1 1 1 7 7
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 1 0.000180 0.000111 
+39.1472 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 1 0.000180 0.000111 
+61.789 
+
+2
+50.4681
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 1 0.000179751 0.000142255 
+1 1 1 1 1 7 9
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 1 0.000180 0.000142 
+21.9767 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 1 0.000180 0.000142 
+50.0569 
+
+2
+36.0168
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 1 0.000179751 0.000173867 
+1 1 1 1 1 7 11
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 1 0.000180 0.000174 
+21.9416 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 1 0.000180 0.000174 
+50.1928 
+
+2
+36.0672
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 1 0.000231109 1.58061e-05 
+1 1 1 1 1 9 1
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 1 0.000231 0.000016 
+42.872 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 1 0.000231 0.000016 
+61.5907 
+
+2
+52.2313
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 1 0.000231109 4.74182e-05 
+1 1 1 1 1 9 3
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 1 0.000231 0.000047 
+44.1698 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 1 0.000231 0.000047 
+65.9482 
+
+2
+55.059
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 1 0.000231109 7.90304e-05 
+1 1 1 1 1 9 5
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 1 0.000231 0.000079 
+40.9239 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 1 0.000231 0.000079 
+64.0155 
+
+2
+52.4697
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 1 0.000231109 0.000110643 
+1 1 1 1 1 9 7
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 1 0.000231 0.000111 
+36.2061 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 1 0.000231 0.000111 
+48.8855 
+
+2
+42.5458
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 1 0.000231109 0.000142255 
+1 1 1 1 1 9 9
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 1 0.000231 0.000142 
+37.5081 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 1 0.000231 0.000142 
+49.2687 
+
+2
+43.3884
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 1 0.000231109 0.000173867 
+1 1 1 1 1 9 11
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 1 0.000231 0.000174 
+37.8985 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 1 0.000231 0.000174 
+48.675 
+
+2
+43.2868
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 1 0.000282466 1.58061e-05 
+1 1 1 1 1 11 1
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 1 0.000282 0.000016 
+40.9028 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 1 0.000282 0.000016 
+58.6849 
+
+2
+49.7938
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 1 0.000282466 4.74182e-05 
+1 1 1 1 1 11 3
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 1 0.000282 0.000047 
+34.0024 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 1 0.000282 0.000047 
+61.5675 
+
+2
+47.785
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 1 0.000282466 7.90304e-05 
+1 1 1 1 1 11 5
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 1 0.000282 0.000079 
+29.932 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 1 0.000282 0.000079 
+49.0043 
+
+2
+39.4682
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 1 0.000282466 0.000110643 
+1 1 1 1 1 11 7
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 1 0.000282 0.000111 
+43.6375 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 1 0.000282 0.000111 
+49.2087 
+
+2
+46.4231
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 1 0.000282466 0.000142255 
+1 1 1 1 1 11 9
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 1 0.000282 0.000142 
+38.0081 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 1 0.000282 0.000142 
+48.9761 
+
+2
+43.4921
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 1 0.000282466 0.000173867 
+1 1 1 1 1 11 11
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 1 0.000282 0.000174 
+38.0179 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 1 0.000282 0.000174 
+48.9749 
+
+2
+43.4964
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 3 2.56788e-05 1.58061e-05 
+1 1 1 1 3 1 1
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 3 0.000026 0.000016 
+76.585 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 3 0.000026 0.000016 
+71.5174 
+
+2
+74.0512
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 3 2.56788e-05 4.74182e-05 
+1 1 1 1 3 1 3
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 3 0.000026 0.000047 
+62.2798 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 3 0.000026 0.000047 
+60.5479 
+
+2
+61.4138
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 3 2.56788e-05 7.90304e-05 
+1 1 1 1 3 1 5
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 3 0.000026 0.000079 
+62.093 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 3 0.000026 0.000079 
+59.3079 
+
+2
+60.7005
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 3 2.56788e-05 0.000110643 
+1 1 1 1 3 1 7
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 3 0.000026 0.000111 
+60.0944 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 3 0.000026 0.000111 
+63.357 
+
+2
+61.7257
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 3 2.56788e-05 0.000142255 
+1 1 1 1 3 1 9
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 3 0.000026 0.000142 
+57.0943 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 3 0.000026 0.000142 
+63.7829 
+
+2
+60.4386
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 3 2.56788e-05 0.000173867 
+1 1 1 1 3 1 11
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 3 0.000026 0.000174 
+53.3147 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 3 0.000026 0.000174 
+56.188 
+
+2
+54.7514
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 3 7.70363e-05 1.58061e-05 
+1 1 1 1 3 3 1
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 3 0.000077 0.000016 
+75.1791 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 3 0.000077 0.000016 
+59.6739 
+
+2
+67.4265
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 3 7.70363e-05 4.74182e-05 
+1 1 1 1 3 3 3
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 3 0.000077 0.000047 
+60.9666 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 3 0.000077 0.000047 
+60.942 
+
+2
+60.9543
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 3 7.70363e-05 7.90304e-05 
+1 1 1 1 3 3 5
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 3 0.000077 0.000079 
+61.7124 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 3 0.000077 0.000079 
+55.4242 
+
+2
+58.5683
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 3 7.70363e-05 0.000110643 
+1 1 1 1 3 3 7
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 3 0.000077 0.000111 
+64.0187 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 3 0.000077 0.000111 
+53.1047 
+
+2
+58.5617
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 3 7.70363e-05 0.000142255 
+1 1 1 1 3 3 9
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 3 0.000077 0.000142 
+56.2993 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 3 0.000077 0.000142 
+55.1573 
+
+2
+55.7283
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 3 7.70363e-05 0.000173867 
+1 1 1 1 3 3 11
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 3 0.000077 0.000174 
+58.5873 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 3 0.000077 0.000174 
+55.8991 
+
+2
+57.2432
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 3 0.000128394 1.58061e-05 
+1 1 1 1 3 5 1
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 3 0.000128 0.000016 
+63.3403 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 3 0.000128 0.000016 
+57.27 
+
+2
+60.3051
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 3 0.000128394 4.74182e-05 
+1 1 1 1 3 5 3
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 3 0.000128 0.000047 
+63.2195 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 3 0.000128 0.000047 
+58.292 
+
+2
+60.7558
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 3 0.000128394 7.90304e-05 
+1 1 1 1 3 5 5
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 3 0.000128 0.000079 
+63.9625 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 3 0.000128 0.000079 
+57.6103 
+
+2
+60.7864
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 3 0.000128394 0.000110643 
+1 1 1 1 3 5 7
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 3 0.000128 0.000111 
+59.4034 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 3 0.000128 0.000111 
+64.5577 
+
+2
+61.9805
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 3 0.000128394 0.000142255 
+1 1 1 1 3 5 9
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 3 0.000128 0.000142 
+51.972 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 3 0.000128 0.000142 
+68.466 
+
+2
+60.219
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 3 0.000128394 0.000173867 
+1 1 1 1 3 5 11
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 3 0.000128 0.000174 
+55.437 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 3 0.000128 0.000174 
+65.7793 
+
+2
+60.6082
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 3 0.000179751 1.58061e-05 
+1 1 1 1 3 7 1
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 3 0.000180 0.000016 
+22.0498 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 3 0.000180 0.000016 
+61.1207 
+
+2
+41.5853
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 3 0.000179751 4.74182e-05 
+1 1 1 1 3 7 3
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 3 0.000180 0.000047 
+23.9951 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 3 0.000180 0.000047 
+64.106 
+
+2
+44.0505
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 3 0.000179751 7.90304e-05 
+1 1 1 1 3 7 5
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 3 0.000180 0.000079 
+56.8808 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 3 0.000180 0.000079 
+65.013 
+
+2
+60.9469
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 3 0.000179751 0.000110643 
+1 1 1 1 3 7 7
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 3 0.000180 0.000111 
+57.3963 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 3 0.000180 0.000111 
+60.4365 
+
+2
+58.9164
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 3 0.000179751 0.000142255 
+1 1 1 1 3 7 9
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 3 0.000180 0.000142 
+53.4987 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 3 0.000180 0.000142 
+66.6348 
+
+2
+60.0667
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 3 0.000179751 0.000173867 
+1 1 1 1 3 7 11
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 3 0.000180 0.000174 
+50.6868 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 3 0.000180 0.000174 
+66.3264 
+
+2
+58.5066
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 3 0.000231109 1.58061e-05 
+1 1 1 1 3 9 1
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 3 0.000231 0.000016 
+24.0288 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 3 0.000231 0.000016 
+62.2578 
+
+2
+43.1433
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 3 0.000231109 4.74182e-05 
+1 1 1 1 3 9 3
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 3 0.000231 0.000047 
+20.0638 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 3 0.000231 0.000047 
+65.7132 
+
+2
+42.8885
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 3 0.000231109 7.90304e-05 
+1 1 1 1 3 9 5
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 3 0.000231 0.000079 
+35.3619 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 3 0.000231 0.000079 
+60.4756 
+
+2
+47.9188
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 3 0.000231109 0.000110643 
+1 1 1 1 3 9 7
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 3 0.000231 0.000111 
+52.3849 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 3 0.000231 0.000111 
+60.4291 
+
+2
+56.407
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 3 0.000231109 0.000142255 
+1 1 1 1 3 9 9
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 3 0.000231 0.000142 
+50.073 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 3 0.000231 0.000142 
+64.215 
+
+2
+57.144
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 3 0.000231109 0.000173867 
+1 1 1 1 3 9 11
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 3 0.000231 0.000174 
+51.8456 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 3 0.000231 0.000174 
+66.3056 
+
+2
+59.0756
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 3 0.000282466 1.58061e-05 
+1 1 1 1 3 11 1
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 3 0.000282 0.000016 
+23.679 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 3 0.000282 0.000016 
+62.6642 
+
+2
+43.1716
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 3 0.000282466 4.74182e-05 
+1 1 1 1 3 11 3
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 3 0.000282 0.000047 
+20.0596 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 3 0.000282 0.000047 
+64.5418 
+
+2
+42.3007
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 3 0.000282466 7.90304e-05 
+1 1 1 1 3 11 5
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 3 0.000282 0.000079 
+35.3212 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 3 0.000282 0.000079 
+61.7437 
+
+2
+48.5325
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 3 0.000282466 0.000110643 
+1 1 1 1 3 11 7
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 3 0.000282 0.000111 
+34.6625 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 3 0.000282 0.000111 
+63.8135 
+
+2
+49.238
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 3 0.000282466 0.000142255 
+1 1 1 1 3 11 9
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 3 0.000282 0.000142 
+51.8161 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 3 0.000282 0.000142 
+64.3925 
+
+2
+58.1043
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 3 0.000282466 0.000173867 
+1 1 1 1 3 11 11
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 3 0.000282 0.000174 
+50.8497 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 3 0.000282 0.000174 
+66.4427 
+
+2
+58.6462
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 5 2.56788e-05 1.58061e-05 
+1 1 1 1 5 1 1
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 5 0.000026 0.000016 
+57.982 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 5 0.000026 0.000016 
+60.7755 
+
+2
+59.3787
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 5 2.56788e-05 4.74182e-05 
+1 1 1 1 5 1 3
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 5 0.000026 0.000047 
+49.1432 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 5 0.000026 0.000047 
+57.4254 
+
+2
+53.2843
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 5 2.56788e-05 7.90304e-05 
+1 1 1 1 5 1 5
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 5 0.000026 0.000079 
+55.7783 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 5 0.000026 0.000079 
+50.7828 
+
+2
+53.2806
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 5 2.56788e-05 0.000110643 
+1 1 1 1 5 1 7
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 5 0.000026 0.000111 
+57.4539 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 5 0.000026 0.000111 
+42.894 
+
+2
+50.174
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 5 2.56788e-05 0.000142255 
+1 1 1 1 5 1 9
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 5 0.000026 0.000142 
+60.5621 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 5 0.000026 0.000142 
+42.9014 
+
+2
+51.7318
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 5 2.56788e-05 0.000173867 
+1 1 1 1 5 1 11
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 5 0.000026 0.000174 
+59.0775 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 5 0.000026 0.000174 
+42.3383 
+
+2
+50.7079
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 5 7.70363e-05 1.58061e-05 
+1 1 1 1 5 3 1
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 5 0.000077 0.000016 
+56.3836 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 5 0.000077 0.000016 
+61.8135 
+
+2
+59.0985
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 5 7.70363e-05 4.74182e-05 
+1 1 1 1 5 3 3
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 5 0.000077 0.000047 
+56.2642 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 5 0.000077 0.000047 
+59.2761 
+
+2
+57.7701
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 5 7.70363e-05 7.90304e-05 
+1 1 1 1 5 3 5
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 5 0.000077 0.000079 
+54.6041 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 5 0.000077 0.000079 
+50.4094 
+
+2
+52.5067
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 5 7.70363e-05 0.000110643 
+1 1 1 1 5 3 7
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 5 0.000077 0.000111 
+22.0119 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 5 0.000077 0.000111 
+46.249 
+
+2
+34.1305
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 5 7.70363e-05 0.000142255 
+1 1 1 1 5 3 9
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 5 0.000077 0.000142 
+20.6452 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 5 0.000077 0.000142 
+46.0018 
+
+2
+33.3235
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 5 7.70363e-05 0.000173867 
+1 1 1 1 5 3 11
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 5 0.000077 0.000174 
+24.5175 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 5 0.000077 0.000174 
+44.6517 
+
+2
+34.5846
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 5 0.000128394 1.58061e-05 
+1 1 1 1 5 5 1
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 5 0.000128 0.000016 
+19.7562 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 5 0.000128 0.000016 
+60.811 
+
+2
+40.2836
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 5 0.000128394 4.74182e-05 
+1 1 1 1 5 5 3
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 5 0.000128 0.000047 
+22.2478 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 5 0.000128 0.000047 
+53.2834 
+
+2
+37.7656
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 5 0.000128394 7.90304e-05 
+1 1 1 1 5 5 5
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 5 0.000128 0.000079 
+21.6017 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 5 0.000128 0.000079 
+52.4731 
+
+2
+37.0374
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 5 0.000128394 0.000110643 
+1 1 1 1 5 5 7
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 5 0.000128 0.000111 
+21.443 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 5 0.000128 0.000111 
+52.347 
+
+2
+36.895
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 5 0.000128394 0.000142255 
+1 1 1 1 5 5 9
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 5 0.000128 0.000142 
+21.3686 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 5 0.000128 0.000142 
+51.6689 
+
+2
+36.5187
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 5 0.000128394 0.000173867 
+1 1 1 1 5 5 11
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 5 0.000128 0.000174 
+25.0625 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 5 0.000128 0.000174 
+47.9651 
+
+2
+36.5138
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 5 0.000179751 1.58061e-05 
+1 1 1 1 5 7 1
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 5 0.000180 0.000016 
+22.1003 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 5 0.000180 0.000016 
+48.6469 
+
+2
+35.3736
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 5 0.000179751 4.74182e-05 
+1 1 1 1 5 7 3
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 5 0.000180 0.000047 
+22.4557 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 5 0.000180 0.000047 
+44.8072 
+
+2
+33.6315
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 5 0.000179751 7.90304e-05 
+1 1 1 1 5 7 5
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 5 0.000180 0.000079 
+21.6425 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 5 0.000180 0.000079 
+44.8072 
+
+2
+33.2248
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 5 0.000179751 0.000110643 
+1 1 1 1 5 7 7
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 5 0.000180 0.000111 
+21.6425 
+sed -n '71201,152901p' score_m1i1 > score_1
+./makehypovid3  outfile1 hypovid_temp1 hypovid_begend1
+./rundp6  score_1 hypovid_temp1 hypovid_begend1 seg_1 0.000007 0.000013 0.000027 0.000589 5 0.000180 0.000111 
+44.8072 
+
+2
+33.2248
+Maximum:75.4158 1 1 1 1 1 1 5
+6.54018e-06 1.34315e-05 2.68477e-05 0.000589247 5 0.000179751 0.000142255 
+1 1 1 1 5 7 9
+sed -n '1,71200p' score_m1i1 > score_0
+./makehypovid3  outfile0 hypovid_temp0 hypovid_begend0
+./rundp6  score_0 hypovid_temp0 hypovid_begend0 seg_0 0.000007 0.000013 0.000027 0.000589 5 0.000180 0.000142 
